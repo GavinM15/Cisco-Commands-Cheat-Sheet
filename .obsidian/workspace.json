@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Switch Configuration (2960).md",
+                "file": "Router/Basic Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Switch Configuration (2960)"
+              "title": "Basic Configuration"
             }
           }
         ],
@@ -186,10 +186,11 @@
   },
   "active": "06190875036399a6",
   "lastOpenFiles": [
+    "Basic Switch Configuration (2960).md",
+    "Router/Basic Configuration.md",
     "Router/DHCPv4 Server Configuration.md",
     "EtherChannel Configuration Commands.md",
     "EtherChannel Troubleshooting.md",
-    "Basic Switch Configuration (2960).md",
     "Router",
     "Switch",
     "Switch",

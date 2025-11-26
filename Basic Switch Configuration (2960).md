@@ -6,6 +6,7 @@
 		- `hostname <name>` - Set device name
 		- `no ip domain-lookup` - Disable DNS lookup to avoid typos freezing the CLI
 		- `enable secret <password>` - Set encrypted enable (privileged) password
+		- `username <username> secret <password>` - creates a user and password, store password in encrypted form
 		- `line console 0` - Enter console line config
 			- `password <password>` - Set console password
 			- `login` - Require the console password at login
