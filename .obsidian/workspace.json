@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0df867b8fd6e2ab0",
@@ -187,8 +186,9 @@
   "active": "06190875036399a6",
   "lastOpenFiles": [
     "Basic Switch Configuration (2960).md",
-    "Router/Basic Configuration.md",
     "Router/DHCPv4 Server Configuration.md",
+    "Router/Basic Configuration.md",
+    "README.md",
     "EtherChannel Configuration Commands.md",
     "EtherChannel Troubleshooting.md",
     "Router",
